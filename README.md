@@ -9,6 +9,7 @@ El folder de MICOM contiene:
   - `Output_files` contiene los archivos suplementarios (flujos de reacciones de intercambnio y del medio, tiempo de duplicaciòn, entre otros.
   
 
-# Atribuciòn
+# Atribución
 Este trabajo forma parte de la tesis de Maestría de Gabriela Montserrat Torres Fernandez, perteneciente al Programa de Maestría y Doctorado en Ciencias Bioquìmicas de la Universidad Nacional Autónoma de México. Bajo la dirección del Dr. Osbaldo Resendis Antonio.
+
 [Human Systems Biology Lab](https://resendislab.github.io/)
