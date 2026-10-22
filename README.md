@@ -6,7 +6,7 @@ En este trabajo, se desarrolló un modelo metabólico comunitario simulando un c
 Todo lo necesario para ejecutar el modelo metabólico comuntario se encuentra en el folder de MICOM:
   - `Input_files` contiene todas los modelos metabólicos a escala genòmica (Genome-Scale Metabolic Models (GEMs)) para las tres reconstrucciones de MCF-7 y de *F. nucleatum* en archivo xml.
   - `Scripts` contiene el código de los modelos de la comunidad, de las reacciones de intercambio entre la comunidad y el medio, y del análisis de knock-out.
-  - `Output_files` contiene los archivos suplementarios (flujos de reacciones de intercambnio y del medio, tiempo de duplicaciòn, entre otros.
+  - `Suplementarias` contiene las tablas suplementarios (flujos de reacciones de intercambnio y del medio, tiempo de duplicaciòn, entre otros.
   
 
 # Atribución
