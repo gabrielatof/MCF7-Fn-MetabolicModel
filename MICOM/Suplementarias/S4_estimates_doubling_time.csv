@@ -1,0 +1,56 @@
+percentage_fusobacterium,compartments,growth_rate,doubling_time
+0,Community,0.066,31.791
+,CanA,0.0151,144.46
+,CanB,0.0608,36.091
+,CanC,0.0795,25.635
+,Fusobacterium ,NA,NA
+10,Community,0.1199,6.1612
+,CanA,0.0276,25.0916
+,CanB,0.1105,6.2673
+,CanC,0.1446,4.7924
+,Fusobacterium ,0.0458,15.1255
+20,Community,0.12122,5.718
+,CanA,0.028043,24.7175
+,CanB,0.112174,6.17923
+,CanC,0.146672,4.72581
+,Fusobacterium ,0.073423,9.44045
+30,Community,0.1119,6.1943
+,CanA,0.0257,26.8742
+,CanB,0.1032,6.7158
+,CanC,0.1349,5.1359
+,Fusobacterium ,0.1131,6.127
+40,Community,0.0909,7.6253
+,CanA,0.021049,32.929
+,CanB,0.084273,8.2249
+,CanC,0.110208,6.2894
+,Fusobacterium ,0.143692,4.8238
+50,Community,0.0419,16.5428
+,CanA,0.009,71.6148
+,CanB,0.0386,17.9118
+,CanC,0.0506,13.6951
+,Fusobacterium ,0.1195,5.8074
+60,Community,0.03196,21.6879
+,CanA,0.007355,94.2431
+,CanB,0.02942,23.5601
+,CanC,0.038472,18.017
+,Fusobacterium ,0.11288,6.14058
+70,Community,0.0192,36.1014
+,CanA,0.0044,156.7292
+,CanB,0.0177,39.1405
+,CanC,0.0231,29.9291
+,Fusobacterium ,0.1056,6.5585
+80,Community,0.008,86.6433
+,CanA,0.001845,375.73
+,CanB,0.007381,93.9126
+,CanC,0.009681,71.6007
+,Fusobacterium ,0.096027,7.2182
+90,Community,0.00395,175.4802
+,CanA,0.0009,758.0731
+,CanB,0.0036,190.5324
+,CanC,0.0047,145.2633
+,Fusobacterium ,0.0841,8.2378
+100,Community,0.031,22.3595
+,CanA,NA,NA
+,CanB,NA,NA
+,CanC,NA,NA
+,Fusobacterium ,0.03115,22.25156
